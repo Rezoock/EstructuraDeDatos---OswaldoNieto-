@@ -1,0 +1,14 @@
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\bin\Debug\net8.0\ProyectoCircunferencia.exe
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\bin\Debug\net8.0\ProyectoCircunferencia.deps.json
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\bin\Debug\net8.0\ProyectoCircunferencia.runtimeconfig.json
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\bin\Debug\net8.0\ProyectoCircunferencia.dll
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\bin\Debug\net8.0\ProyectoCircunferencia.pdb
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.AssemblyInfoInputs.cache
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.AssemblyInfo.cs
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.csproj.CoreCompileInputs.cache
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.dll
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\refint\ProyectoCircunferencia.dll
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.pdb
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ProyectoCircunferencia.genruntimeconfig.cache
+C:\Users\cover\source\repos\ProyectoCircunferencia\ProyectoCircunferencia\obj\Debug\net8.0\ref\ProyectoCircunferencia.dll

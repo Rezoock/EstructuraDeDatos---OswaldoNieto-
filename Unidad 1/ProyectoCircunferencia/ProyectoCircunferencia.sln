@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoCircunferencia", "ProyectoCircunferencia\ProyectoCircunferencia.csproj", "{1B027F45-6D1D-45B4-B79F-9AEAAC0BFF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B027F45-6D1D-45B4-B79F-9AEAAC0BFF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B027F45-6D1D-45B4-B79F-9AEAAC0BFF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B027F45-6D1D-45B4-B79F-9AEAAC0BFF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B027F45-6D1D-45B4-B79F-9AEAAC0BFF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D725546E-A35A-43E4-8C16-3B16D2D1AEF9}
+	EndGlobalSection
+EndGlobal
