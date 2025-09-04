@@ -1,0 +1,14 @@
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\bin\Debug\net8.0\juego_AdivinaNumero.exe
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\bin\Debug\net8.0\juego_AdivinaNumero.deps.json
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\bin\Debug\net8.0\juego_AdivinaNumero.runtimeconfig.json
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\bin\Debug\net8.0\juego_AdivinaNumero.dll
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\bin\Debug\net8.0\juego_AdivinaNumero.pdb
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.AssemblyInfoInputs.cache
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.AssemblyInfo.cs
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.csproj.CoreCompileInputs.cache
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.dll
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\refint\juego_AdivinaNumero.dll
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.pdb
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\juego_AdivinaNumero.genruntimeconfig.cache
+C:\Users\cover\source\repos\juego_AdivinaNumero\juego_AdivinaNumero\obj\Debug\net8.0\ref\juego_AdivinaNumero.dll

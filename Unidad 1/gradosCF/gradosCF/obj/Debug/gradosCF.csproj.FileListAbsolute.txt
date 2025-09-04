@@ -1,0 +1,15 @@
+C:\Users\cover\source\repos\gradosCF\gradosCF\bin\Debug\gradosCF.exe.config
+C:\Users\cover\source\repos\gradosCF\gradosCF\bin\Debug\gradosCF.exe
+C:\Users\cover\source\repos\gradosCF\gradosCF\bin\Debug\gradosCF.pdb
+C:\Users\cover\source\repos\gradosCF\gradosCF\obj\Debug\gradosCF.csproj.AssemblyReference.cache
+C:\Users\cover\source\repos\gradosCF\gradosCF\obj\Debug\gradosCF.csproj.CoreCompileInputs.cache
+C:\Users\cover\source\repos\gradosCF\gradosCF\obj\Debug\gradosCF.exe
+C:\Users\cover\source\repos\gradosCF\gradosCF\obj\Debug\gradosCF.pdb
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\bin\Debug\gradosCF.exe.config
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\bin\Debug\gradosCF.exe
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\bin\Debug\gradosCF.pdb
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\obj\Debug\gradosCF.csproj.AssemblyReference.cache
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\obj\Debug\gradosCF.exe.config
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\obj\Debug\gradosCF.csproj.CoreCompileInputs.cache
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\obj\Debug\gradosCF.exe
+C:\Users\cover\source\repos\Rezoock\EstructuraDeDatos---OswaldoNieto-\Unidad-1\gradosCF\gradosCF\obj\Debug\gradosCF.pdb
