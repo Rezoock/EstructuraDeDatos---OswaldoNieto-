@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("juego_AdivinaNumero")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fc75e618511d9a5ac97d470c484955d23443252")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e220fa9bda764935c39fc61dc98f1c9d06c85dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("juego_AdivinaNumero")]
 [assembly: System.Reflection.AssemblyTitleAttribute("juego_AdivinaNumero")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

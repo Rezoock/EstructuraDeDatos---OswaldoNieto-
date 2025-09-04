@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Validar si es Numero primo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a5caa78fd679499a0a5a1710569b385ddd352ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e220fa9bda764935c39fc61dc98f1c9d06c85dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Validar si es Numero primo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Validar si es Numero primo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
