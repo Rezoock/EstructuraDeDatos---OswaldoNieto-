@@ -11,7 +11,7 @@ namespace SimuladorImpresora
 
             var colaDeImpresion = new Queue<string>();
 
-            Console.WriteLine("La impresora está lista. Enviando documentos a la cola");
+            Console.WriteLine("La impresora está lista Enviando documentos a la cola");
 
             
             colaDeImpresion.Enqueue("tarea.pdf");
