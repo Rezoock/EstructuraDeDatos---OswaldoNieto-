@@ -1,10 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq; // Necesario para el método .OrderBy()
+using System.Linq; 
 
-// --- 1. BÚSQUEDA DE USUARIOS POR ID (Complejidad O(1)) ---
-
-// Clase para representar a un usuario
 public class Usuario
 {
     public int Id { get; set; }
@@ -25,7 +22,7 @@ public class GestorUsuarios
     public Usuario BuscarPorId(int id)
     {
         usuariosPorId.TryGetValue(id, out var usuario);
-        return usuario; // Devuelve el usuario o null si no lo encuentra
+        return usuario;
     }
 }
 
@@ -74,7 +71,7 @@ public class EstadisticasEnTiempoReal
     public void MostrarEstadisticas()
     {
         Console.WriteLine($"Visitas totales: {_visitasPagina}");
-        Console.WriteLine($"Ventas totales: ${_ventasTotales:N2}"); // N2 formatea como moneda
+        Console.WriteLine($"Ventas totales: ${_ventasTotales:N2}"); 
     }
 }
 
