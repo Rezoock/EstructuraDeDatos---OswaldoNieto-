@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Threading; // Necesario para usar Thread.Sleep()
+using System.Threading;
 
 namespace SimuladorImpresora
 {
