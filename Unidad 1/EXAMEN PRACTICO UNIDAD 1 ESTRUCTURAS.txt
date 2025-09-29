@@ -1,0 +1,39 @@
+1. tienes una lista de 10000 estudiantes ordenada por nombre , que algortimo
+ de nusqueda usarias para encontrar un estudiante especifico y porque ? 
+Usa Búsqueda Binaria
+porque la lista está ordenada
+
+
+
+2. explica con un ejemplo practico por que la diferencia entre O(n) y O(n**2) es importante en aplicaciones reales 
+
+Imagina una red social con 5,000 usuarios que quiere mostrarte "amigos en común" con otro perfil.
+
+O(n2) (lento): Un algoritmo simple tomaría cada uno de tus amigos y lo compararía con cada uno de los amigos de la otra persona. 
+Si ambos tienen 1,000 amigos, 
+esto significa 1,000×1,000=1,000,000 de operaciones. La app se sentiría lenta 
+
+O(n) (rápido): Un algoritmo eficiente recorrería ambas listas de amigos una sola vez para encontrar las coincidencias.
+ Esto serían unas 2,000 operaciones. La respuesta sería instantánea
+
+
+3. Tienes que ordenar un alista de 100 numeros que esta casi ordena da que algortimo eleigirias y porque 
+Usa Ordenamiento por Insertion Sort
+porque este algoritmo es extremadamente rápido en listas que ya están casi ordenadas.
+
+
+
+
+4. hasta que valor de n podrias calcular filbonacci usando la version recursiva antes de que sea demasiado lento y con la version iterative
+
+Recursivo: Se vuelve demasiado lento alrededor de n = 40. Su complejidad de O(2 n)
+ provoca un número masivo de cálculos repetidos. Para n=45, ya tarda varios segundos.
+Iterativo: Es extremadamente rápido y su límite no es la velocidad (O(n)), sino la capacidad del tipo de dato.
+ Usando un entero de 64 bits, puede calcular hasta fib(92) antes de desbordarse. Con tipos de datos para números grandes, puede 
+ir mucho más allá instantáneamente.
+
+
+ejercicio 2 simula una pila de navegacion en un navegador web 
+inserte las 3 paginas web google.com , wilkipedia.org, openia.cm, el usuario presiona volver una vez 
+muestra la pila actual la del tope de la pila
+
